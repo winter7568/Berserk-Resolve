@@ -1,0 +1,244 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2363,
+      "max": [
+        0.10199610143899918,
+        0.03849738836288452,
+        1.6819528341293335
+      ],
+      "min": [
+        -0.10581961274147034,
+        -0.04917915165424347,
+        -0.2825939953327179
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2363,
+      "max": [
+        0.9999690055847168,
+        1.0,
+        0.9984844326972961
+      ],
+      "min": [
+        -0.9999690055847168,
+        -1.0,
+        -0.9969143867492676
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2363,
+      "max": [
+        1.0,
+        1.0,
+        0.9973753690719604,
+        1.0
+      ],
+      "min": [
+        -0.9978986978530884,
+        -1.0,
+        -0.9948747158050537,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2363,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 2363,
+      "max": [
+        0.98876953125,
+        0.9921875
+      ],
+      "min": [
+        0.0078125,
+        0.0078125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 9132,
+      "max": [
+        2362
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 28356,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28356,
+      "byteOffset": 28356,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37808,
+      "byteOffset": 56712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18904,
+      "byteOffset": 94520,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18904,
+      "byteOffset": 113424,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36528,
+      "byteOffset": 132328,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 168856,
+      "uri": "Sword.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures\\material_0_baseColor.png"
+    },
+    {
+      "uri": "textures\\material_0_metallicRoughness.png"
+    },
+    {
+      "uri": "WorldGridMaterial_Normal.png"
+    },
+    {
+      "uri": "textures\\emmisiveMap.png"
+    }
+  ],
+  "materials": [
+    {
+      "emissiveTexture": {
+        "index": 3
+      },
+      "name": "WorldGridMaterial",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "node0",
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

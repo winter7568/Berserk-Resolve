@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Sword
+* source:	https://sketchfab.com/3d-models/stylized-sword-7bec8fb0988b4c668bc1bd2356d09d51
+* author:	physicsvaib (https://sketchfab.com/physicsvaib)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Sword" (https://sketchfab.com/3d-models/stylized-sword-7bec8fb0988b4c668bc1bd2356d09d51) by physicsvaib (https://sketchfab.com/physicsvaib) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

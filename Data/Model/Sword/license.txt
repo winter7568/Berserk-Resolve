@@ -1,0 +1,11 @@
+Model Information:
+* title:	K28 Sword
+* source:	https://sketchfab.com/3d-models/k28-sword-f01b1857290a4f8a9f093ea3c86ee152
+* author:	Long Nguyễn (https://sketchfab.com/LongNguyen89)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "K28 Sword" (https://sketchfab.com/3d-models/k28-sword-f01b1857290a4f8a9f093ea3c86ee152) by Long Nguyễn (https://sketchfab.com/LongNguyen89) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
